@@ -57,8 +57,8 @@
 - **운영 체제**: Windows 10 이상
 - **툴체인**: Visual Studio 2022 이상
 - **언어 표준**: C++20
-- **필수 SDK**: DirectX SDK, Windows SDK
-- **패키지 매니저**: vcpkg
+- **필수 SDK**: [DirectX SDK](https://www.microsoft.com/en-US/download/details.aspx?id=6812&msockid=3062152011ea654904ea003210c36437), Windows SDK
+- **패키지 매니저**: [vcpkg](https://github.com/microsoft/vcpkg)
 
 ### 빌드 단계
 1. 외부 파일 다운로드 링크를 통해 `외부 파일.zip`을 다운로드합니다.
