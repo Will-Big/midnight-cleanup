@@ -453,7 +453,10 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Engine Files
+temp.scene
 *.mc*
+*.ini
+*.meta
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
