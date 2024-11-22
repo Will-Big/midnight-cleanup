@@ -1,5 +1,16 @@
 # Midnight Cleanup
 
+## 게임 실행 사진 및 영상
+
+### Animatool 실행 화면
+<img src="./images/tool_image.png" alt="툴 실행 화면" width="600">
+
+### Launcher 실행 화면
+<img src="./images/launcher_image.png" alt="런처 실행 화면" width="600">
+
+### 실행 영상
+[![게임 실행 영상](https://img.youtube.com/vi/WkjI6ZwUVwU/0.jpg)](https://www.youtube.com/watch?v=WkjI6ZwUVwU&ab_channel=%EC%97%94%EC%A0%A4%EC%B0%BD)
+
 **설명**  
 이 프로젝트는 C++20과 DirectX 11을 사용하여 개발된 3D 그래픽스 애플리케이션입니다.
 게임인재원 졸업 프로젝트로 2024년 4월부터 2024년 11월까지 진행되었으며, 팀원 간 협업과 그래픽스 기술을 활용한 학습 및 연구를 목적으로 제작되었습니다.
