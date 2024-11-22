@@ -1,7 +1,0 @@
-SamplerState gsamPointWrap;
-SamplerState gsamPointClamp;
-SamplerState gsamLinearWrap;
-SamplerState gsamLinearClamp;
-SamplerState gsamAnisotropicWrap;
-SamplerState gsamAnisotropicClamp;
-SamplerComparisonState gsamShadow;
